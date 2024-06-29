@@ -2,7 +2,6 @@
 - 🌱 I'm currently an Electrical Engineering student at Surabaya State University
 - 👨‍💻 I’m interested in Web Development and Embeded System Programming
 
-#### Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
   <img width="0" />
